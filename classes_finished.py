@@ -20,7 +20,7 @@ class anotherClass(myClass):
 def main():
   c = myClass()
   c.method1()
-  c.method2("This is a string")
+  c.method2("This is aa string")
   c2 = anotherClass()
   c2.method1()
   
